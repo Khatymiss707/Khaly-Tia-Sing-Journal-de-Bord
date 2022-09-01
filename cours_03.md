@@ -2,16 +2,22 @@
 ## Plan de présentation
 
 ### Présentation
-Parlez de vous. 
+Khaly Tia Sing: Nom facile pour mes grand parents et Starbucks ne l'écrit jamais comme il le faut
+5 frères et soeurs
+Secondaire international
+j'aime dessiner, mais aussi chanter et écrire
 
 ### Intérêts dans le domaine
-Parlez de vos intérêts en multimédia. 
+-Dessin
+-Animation 3D
+-Utiliser Vocaloid
+-Design de surface (menu, save screen,) 
 
 ### Emplois qui vous intéressent
-Nommez deux emplois.
+2 emplois qui m'interresse 
 
 ### Identification
-Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
+Square Enix
 
 ### Dans 5 ans
 Où vous voyez-vous dans 5 ans? 
