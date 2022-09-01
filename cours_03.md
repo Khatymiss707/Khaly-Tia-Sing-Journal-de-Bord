@@ -14,13 +14,14 @@ j'aime dessiner, mais aussi chanter et écrire
 -Design de surface (menu, save screen,) 
 
 ### Emplois qui vous intéressent
-2 emplois qui m'interresse 
+-Réalisatrice
+-Illustratrice 
 
 ### Identification
-Square Enix
+Square Enix crée mes jeux favoris 
 
 ### Dans 5 ans
-Où vous voyez-vous dans 5 ans? 
+Débutante à ubisoft
 
 ### Projets
-Expliquez un ou des projets que vous aimeriez faire. 
+Travailler sur kingdom hearts
