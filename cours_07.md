@@ -1,15 +1,11 @@
 # Cours 7
 ## Analyse critique d'une oeuvre
 
-L’objectif de cet exercice est de développer une opinion sur une œuvre multimédia. Pour l’analyse, choisissez l’une des œuvres que nous avons visitées. 
-
-Entre 300 et 400 mots. 
-
 ### Description
-Je vais parler de la première sortie qu'on a fait en groupe dont l'exposition intéractive de Van Goh. Décrivez l'oeuvre. Quelles étaient les composantes de l'installation? Comment était-elle réalisée techniquement? 
+Je vais parler de la première sortie qu'on a fait en groupe dont l'exposition intéractive de Van Goh. En gros, ce qu'on a visité est plus spécifiquement décrite en tant qu'exposition numérique qui se projetait sur les murs de 3 salles en version plutôt abstraite que fiable. Pour la plupart du temps, les murs avait des projections graphiques par des caméras  installées au plafond, mais ce qui est intéressant est la troisième salle, où qu'on retrouve des planchers intéractifs qui créer de l'animation quand on marche. Selon un de nos camarades de classe, il semble être des caméras de motion capture. En gros, ça détecte les mouvements et l'enregistre pour pouvoir faire jouer l'animation.
 
 ### Opinion
-Donnez votre opinion sur l'oeuvre que nous avons visitée. Vous a-t-elle plu? Ou pas du tout? Pourquoi? Est-ce que certains aspects vous ont plus touchés que d'autres? 
+Honnêtement, j'ai trouvé cela plutôt ennuyant parce qu'il n'y avait que des couleurs et de la musique pour la plupart de l'exposition. Pour me répéter encore une fois, moi je suis plus intéressée sur l'histoire et ce qui a mené à la vie qu'il a vécu. Les couleurs et l'art étaient magnifique, mais il manquait vraiment quelque chose. Je m'attendais à plus que ce qu'on a eu, surtout pour le prix qu'on a payé. Malgré tout ce que j'ai dit, j'ai beaucoup aimé la troisième salle, non seulement parce qu'elle était intéractive, mais aussi parce que c'est dans cette salle qu'on peut voir toutes ses oeuvres et peinture et les voir venir à la vie était très intéressant.  
 
 ### Analyse critique
-Qu'est-ce qui pourrait être modifié dans cette oeuvre? 
+J'aurais aimé qu'on apprend plus sur Van Goh en tant que personne et avoir des moments plus clairs sur son histoire et son passé. Oui, l'art abstrait qui représente ces oeuvres était sympathique, mais honnêtement, je trouve que la seule salle qui fait cette job est la dernière puisqu'elle démontre ses oeuvres et ses tendances en peinture. Les deux premières manquaient d'informations, surtout la première qui était supposé de démontrer ses débuts et son parcours. On ne pouvait même pas lire les lettres à cause de l'écriture et du flou. Je trouve que pour améliorer l'ouevre, il faudrait avoir plus de narration dans la première salle et nous donner une image plus clair de Van Gogh à la place de ce qu'on a eu. S'ils veulent utiliser son écriture, il faudrait au moins avoir une narration qui lit les lettres pour qu'on comprends. Pour la deuxième salle, je vais être honnête, je ne l'aime pas vraiment. Les chaises étaient amusantes, mais c'est à peu près tout ce que j'ai appréciée de celle-ci. Selon moi, ils devraient la changer pour démontrer un peu son processus de créer une art, non seulement pour apprendre un peu ses méthodes, mais aussi pour nous laisser dans sa tête et voir ce qu'il pense en créeant.  Peut-être aussi explorer la symbolique de ces éléments comme ce que les tournesols représentent pour lui. Pour la troisième salle, je l'aime bien comme elle est. 
